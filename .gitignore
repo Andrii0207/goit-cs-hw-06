@@ -1,0 +1,11 @@
+venv/
+.env/
+.env.*
+
+ENV/
+.venv/
+.DS_Store
+.idea/
+*.iml
+__pycache__/
+*.pyc
